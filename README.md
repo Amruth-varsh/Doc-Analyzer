@@ -34,8 +34,8 @@ Follow these steps to set up and run the chatbot:
 1. **Clone the repository**
    - Download the code to your computer:
      ```bash
-     git clone https://github.com/SrikantaPeshwakar03/Agentic_Chatbot.git
-     cd agentic-chatbot
+     git clone https://github.com/Amruth-varsh/Doc-Analyzer.git
+     cd Doc-Analyzer
      ```
 2. **Create and activate a virtual environment**
    - This keeps dependencies isolated:
@@ -62,7 +62,7 @@ Follow these steps to set up and run the chatbot:
 5. **Run the chatbot**
    - Start the web interface:
      ```bash
-     python app.pyz
+     python app.py
      ```
    - Open the provided local URL in your browser to use the chatbot.
 
